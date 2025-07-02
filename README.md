@@ -1,10 +1,10 @@
 # LongAnimation: Long Animation Generation with Dynamic Global-Local Memory
 <a href="https://cn-makers.github.io/CustomContrast/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
-<a href="https://arxiv.org/pdf/"><img src="https://img.shields.io/badge/arXiv-2412.14173-b31b1b.svg"></a>
+<a href="https://arxiv.org/pdf/"><img src="https://img.shields.io/badge/arXiv-1111.11111-b31b1b.svg"></a>
 <a href="https://www.apache.org/licenses/LICENSE-2.0.txt"><img src="https://img.shields.io/badge/License-Apache-yellow"></a>
 
 
-https://github.com/CN-makers/long_animation_web/blob/main/show_case/video.mp4
+video\video.mp4
 
 
 
@@ -23,21 +23,21 @@ https://github.com/CN-makers/long_animation_web/blob/main/show_case/video.mp4
 
 ## Showcase
 <p style="text-align: center;">
-  <img src="https://github.com/CN-makers/long_animation_web/blob/main/show_case/showcase_1.mp4" alt="GIF" />
+  <img src="video\text_1.mp4" alt="GIF" />
 </p>
 <p style="text-align: center;">
-  <img src="https://github.com/CN-makers/long_animation_web/blob/main/show_case/comparison_2.mp4" alt="GIF" />
+  <img src="video\text_2.mp4" alt="GIF" />
 </p>
 <p style="text-align: center;">
-  <img src="https://github.com/CN-makers/long_animation_web/blob/main/show_case/comparison_3.mp4" alt="GIF" />
+  <img src="video\text_3.mp4" alt="GIF" />
 </p>
 
 ## Creative usage
 ### Text-guided Background Generation
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-<img src="https://github.com/CN-makers/long_animation_web/blob/main/show_case/text_1.mp4" alt="GIF Animation">
-<img src="https://github.com/CN-makers/long_animation_web/blob/main/show_case/text_2.mp4" alt="GIF Animation">
-<img src="https://github.com/CN-makers/long_animation_web/blob/main/show_case/text_3.mp4" alt="GIF Animation"  style="margin-bottom: 40px;"> 
+<img src="video\text_1.mp4" alt="GIF Animation">
+<img src="video\text_2.mp4" alt="GIF Animation">
+<img src="video\text_3.mp4" alt="GIF Animation"  style="margin-bottom: 40px;"> 
 <div style="text-align:center; margin-top: -50px; margin-bottom: 70px;font-size: 18px; letter-spacing: 0.2px;">
         <em>A boy and a girl in different environment.</em>
 </div>
