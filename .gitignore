@@ -1,0 +1,14 @@
+*__pycache__/
+samples*/
+runs/
+checkpoints/
+master_ip
+logs/
+*.DS_Store
+.idea
+output*
+test/
+wandb/
+pretrained_weight/
+.vscode/
+Test_Dataset/

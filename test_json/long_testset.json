@@ -1,0 +1,7 @@
+{
+    "l0": {
+        "video_path": "Test_Dataset/test1.mp4",
+        "prompt": "Two girls are talking happily.",
+        "reference_image": "Test_Dataset/2.jpg"
+    }
+}
