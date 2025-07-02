@@ -1,5 +1,5 @@
 # LongAnimation: Long Animation Generation with Dynamic Global-Local Memory
-<a href="https://cn-makers.github.io/CustomContrast/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
+<a href="https://cn-makers.github.io/long_animation_web/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
 <a href="https://arxiv.org/pdf/"><img src="https://img.shields.io/badge/arXiv-1111.11111-b31b1b.svg"></a>
 <a href="https://www.apache.org/licenses/LICENSE-2.0.txt"><img src="https://img.shields.io/badge/License-Apache-yellow"></a>
 
