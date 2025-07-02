@@ -32,10 +32,11 @@ https://github.com/user-attachments/assets/7d87e63a-f5e6-46ba-bb1b-d457ceb0b1d8
 
 ## Creative usage
 ### Text-guided Background Generation
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-<img src="video\text_1.mp4" alt="GIF Animation">
-<img src="video\text_2.mp4" alt="GIF Animation">
-<img src="video\text_3.mp4" alt="GIF Animation"  style="margin-bottom: 40px;"> 
+https://github.com/user-attachments/assets/68a5d0fb-f767-4fc8-aed6-cd798301484f
+
+https://github.com/user-attachments/assets/7cba4d5b-b793-474d-9da4-34892853b240
+
+https://github.com/user-attachments/assets/6787349b-6a3e-4ed1-8a6a-efc1643a4e92
 <div style="text-align:center; margin-top: -50px; margin-bottom: 70px;font-size: 18px; letter-spacing: 0.2px;">
         <em>A boy and a girl in different environment.</em>
 </div>
