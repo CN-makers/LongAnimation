@@ -22,15 +22,13 @@ video\video.mp4
 
 
 ## Showcase
-<p style="text-align: center;">
-  <img src="video\text_1.mp4" alt="GIF" />
-</p>
-<p style="text-align: center;">
-  <img src="video\text_2.mp4" alt="GIF" />
-</p>
-<p style="text-align: center;">
-  <img src="video\text_3.mp4" alt="GIF" />
-</p>
+
+https://github.com/user-attachments/assets/8d225a9e-6e27-42bd-9638-5f4e4cb4dbf7
+
+https://github.com/user-attachments/assets/0fee3eed-8a38-4382-bbe6-21c0cf2371e9
+
+https://github.com/user-attachments/assets/7d87e63a-f5e6-46ba-bb1b-d457ceb0b1d8
+
 
 ## Creative usage
 ### Text-guided Background Generation
