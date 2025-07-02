@@ -6,7 +6,7 @@
 
 https://github.com/user-attachments/assets/a3866f82-b07a-41ae-9673-2a24f7c78af4
 
-
+🎉🎉 Our paper, “LongAnimation: Long Animation Generation with Dynamic Global-Local Memory” accepted by ICCV 2025!
 
 
 > <a href="https://cn-makers.github.io/long_animation_web/">**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**</a>
