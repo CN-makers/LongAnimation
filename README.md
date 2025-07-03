@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/a3866f82-b07a-41ae-9673-2a24f7c78af4
 > <a href="https://cn-makers.github.io/long_animation_web/">**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**</a>
 >
 
-[Nan Chen](https://cn-makers.github.io/)<sup>1</sup>, [Mengqi Huang](https://ken-ouyang.github.io/)<sup>1</sup>, [Yihao Meng](https://openreview.net/profile?id=~Hanlin_Wang2)<sup>2</sup>,  [Zhendong Mao](http://www.huamin.org/index.htm/)<sup>†,1</sup><br>
+[Nan Chen](https://openreview.net/profile?id=~Nan_Chen13)<sup>1</sup>, [Mengqi Huang](https://corleone-huang.github.io/)<sup>1</sup>, [Yihao Meng](https://yihao-meng.github.io/)<sup>2</sup>,  [Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/en/index.htm)<sup>†,1</sup><br>
 <sup>1</sup>USTC <sup>2</sup>HKUST <sup>†</sup>corresponding author
 
 > Existing	studies	are	limited	to	short-term	colorization	by	fusing	overlapping	features	to	achieve	smooth	transitions,	which	fails	to maintain	long-term	color	consistency.	In	this	study,	we	propose	a	dynamic	global-local	paradigm	to	achieve	ideal	long-term	color consistency	by	dynamically	extracting	global	color-consistent	features	relevant	to	the	current	generation.	
