@@ -92,3 +92,14 @@ During the official training and testing, the --height and --weight we used were
 
 ## Citation:
 Don't forget to cite this source if it proves useful in your research!
+```
+@misc{chen2025longanimationlonganimationgeneration,
+      title={LongAnimation: Long Animation Generation with Dynamic Global-Local Memory}, 
+      author={Nan Chen and Mengqi Huang and Yihao Meng and Zhendong Mao},
+      year={2025},
+      eprint={2507.01945},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.01945}, 
+}
+```
